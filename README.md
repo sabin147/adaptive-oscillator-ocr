@@ -366,7 +366,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Sabin147** - Biologically-inspired AI researcher
+**Sabin147** 
 
 ---
 
